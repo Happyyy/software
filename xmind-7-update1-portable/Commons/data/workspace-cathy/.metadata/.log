@@ -1,0 +1,12 @@
+!SESSION 2018-08-06 15:42:11.849 -----------------------------------------------
+eclipse.buildId=R3.6.1.201512240104
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../Commons/data/workspace-cathy
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2018-08-06 15:42:35.056
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+
+!ENTRY net.xmind.workbench 4 0 2018-08-06 15:42:38.546
+!MESSAGE Failed to retrieve site events: 301
